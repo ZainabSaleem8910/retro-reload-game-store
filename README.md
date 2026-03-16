@@ -1,4 +1,4 @@
-![Retro Reload Logo](assets/RETRO_RELOAD.png)
+![Retro Reload Logo](RETRO_RELOAD.png)
 
 # Retro Reload – Online Game Store
 
