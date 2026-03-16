@@ -1,4 +1,4 @@
-![Retro Reload Logo](https://raw.githubusercontent.com/ZainabSaleem8910/retro-reload-game-store/main/RETRO_RELOAD.png)
+![Retro Reload Logo](https://github.com/ZainabSaleem8910/retro-reload-game-store/blob/main/retro-reload-game-store/assets/RETRO_RELOAD.png?raw=true)
 
 # Retro Reload – Online Game Store
 
